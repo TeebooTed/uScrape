@@ -1,0 +1,22 @@
+# Virtualenvs
+env/
+uscrape/
+.venv/
+venv/
+
+# PyInstaller / build artifacts
+build/
+dist/
+*.pyc
+__pycache__/
+
+# Runtime / local data
+scrape_log.txt
+page_count_cache.json
+*.csv
+*.xlsx
+*.ods
+
+# OS / editor
+.DS_Store
+*.swp

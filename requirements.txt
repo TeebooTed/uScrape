@@ -1,0 +1,7 @@
+ttkbootstrap
+aiohttp
+beautifulsoup4
+ratelimit
+playwright
+transformers
+Pillow
